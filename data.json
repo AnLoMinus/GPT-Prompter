@@ -1,0 +1,498 @@
+[
+  {
+    "id": "ef-4c43-d68",
+    "name": "Ferry-Turner",
+    "country": "United States",
+    "rating": 5.5,
+    "color": "#b7b583",
+    "slogan": "best-of-breed initiatives",
+    "logo": "#logo1",
+    "keywords": ["business-focused", "product optimization", "emulation"]
+  },
+  {
+    "id": "4a-4a93-cfe",
+    "name": "Lubowitz, Blick and Fisher",
+    "country": "France",
+    "rating": 8.6,
+    "color": "#50afb1",
+    "slogan": "bricks-and-clicks e-tailers",
+    "logo": "#logo2",
+    "keywords": ["customer loyalty"]
+  },
+  {
+    "id": "8a-4809-144",
+    "name": "Lebsack and Sons",
+    "country": "Brazil",
+    "rating": 9,
+    "color": "#5a8285",
+    "slogan": "vertical e-services",
+    "logo": "#logo3",
+    "keywords": ["user-centric", "data-warehouse", "emulation"]
+  },
+  {
+    "id": "5d-4f59-33f",
+    "name": "Rosenbaum, Walter and Gutkowski",
+    "country": "Brazil",
+    "rating": 7.2,
+    "color": "#6e7039",
+    "slogan": "synergized web-readiness",
+    "logo": "#logo6",
+    "keywords": ["cross-platform"]
+  },
+  {
+    "id": "fc-48dd-cfa",
+    "name": "O'Kon LLC",
+    "country": "Brazil",
+    "rating": 9.3,
+    "color": "#227f05",
+    "slogan": "visionary interfaces",
+    "logo": "#logo7",
+    "keywords": ["internet solutions", "security solutions", "content strategy"]
+  },
+  {
+    "id": "d4-4376-7b8",
+    "name": "Schumm, Spencer and Bailey",
+    "country": "United States",
+    "rating": 6,
+    "color": "#068e82",
+    "slogan": "open-source partnerships",
+    "logo": "#logo23",
+    "keywords": ["benchmark framework"]
+  },
+  {
+    "id": "5d-4376-b9b",
+    "name": "Beier and Sons",
+    "country": "Brazil",
+    "rating": 9.1,
+    "color": "#d98054",
+    "slogan": "deployment channels",
+    "logo": "#logo8",
+    "keywords": ["migration services", "service-desk", "organic engagement"]
+  },
+  {
+    "id": "e2-4b3a-dc6",
+    "name": "Dicki-Armstrong",
+    "country": "France",
+    "rating": 8.4,
+    "color": "#339b94",
+    "slogan": "engineering B2B",
+    "logo": "#logo9",
+    "keywords": ["business-focused", "security solutions"]
+  },
+  {
+    "id": "11-49fc-cd0",
+    "name": "Bergnaum LLC",
+    "country": "France",
+    "rating": 4.9,
+    "color": "#9bd0d3",
+    "slogan": "cross-platform e-services",
+    "logo": "#logo10",
+    "keywords": ["customer loyalty"]
+  },
+  {
+    "id": "c7-4c25-3ac",
+    "name": "Runolfsson Inc",
+    "country": "Sweden",
+    "rating": 8.6,
+    "color": "#efe77e",
+    "slogan": "targeted demographics",
+    "logo": "#logo11",
+    "keywords": ["knowledge base"]
+  },
+  {
+    "id": "8c-4968-9ae",
+    "name": "Hermiston LLC",
+    "country": "Brazil",
+    "rating": 9.4,
+    "color": "#64c272",
+    "slogan": "bleeding-edge synergies",
+    "logo": "#logo12",
+    "keywords": [
+      "artificial intelligence",
+      "graphic interfaces",
+      "business-focused"
+    ]
+  },
+  {
+    "id": "b1-4c29-925",
+    "name": "Mante Inc",
+    "country": "France",
+    "rating": 5.1,
+    "color": "#e8a25d",
+    "slogan": "B2C deliverables",
+    "logo": "#logo14",
+    "keywords": ["focus groups"]
+  },
+  {
+    "id": "a6-4da4-c88",
+    "name": "Cassin Inc",
+    "country": "Brazil",
+    "rating": 5,
+    "color": "#f7ce1b",
+    "slogan": "redefine web-readiness",
+    "logo": "#logo15",
+    "keywords": ["artificial intelligence"]
+  },
+  {
+    "id": "3b-4f16-d99",
+    "name": "Kilback and Sons",
+    "country": "Canada",
+    "rating": 8.9,
+    "color": "#5d8669",
+    "slogan": "real-time metrics",
+    "logo": "#logo16",
+    "keywords": ["graphic interfaces", "data-warehouse"]
+  },
+  {
+    "id": "7f-406f-956",
+    "name": "Hyatt LLC",
+    "country": "France",
+    "rating": 7.2,
+    "color": "#a6ed56",
+    "slogan": "network architects",
+    "logo": "#logo17",
+    "keywords": ["product optimization", "data-warehouse", "service-desk"]
+  },
+  {
+    "id": "98-40c2-fad",
+    "name": "Lebsack, Murazik and Stiedemann",
+    "country": "Sweden",
+    "rating": 8.1,
+    "color": "#22a4df",
+    "slogan": "world-class platforms",
+    "logo": "#logo18",
+    "keywords": ["web-enabled"]
+  },
+  {
+    "id": "83-46be-94d",
+    "name": "Littel and Sons",
+    "country": "United States",
+    "rating": 8.2,
+    "color": "#538424",
+    "slogan": "web-scale technologies",
+    "logo": "#logo19",
+    "keywords": ["user-centric"]
+  },
+  {
+    "id": "96-4226-a8a",
+    "name": "Block Group",
+    "country": "France",
+    "rating": 4.3,
+    "color": "#40698e",
+    "slogan": "customized dataviz",
+    "logo": "#logo20",
+    "keywords": ["business-focused"]
+  },
+  {
+    "id": "d1-4240-007",
+    "name": "Weissnat-Auer",
+    "country": "Mexico",
+    "rating": 7.2,
+    "color": "#6e8386",
+    "slogan": "optimized bandwidth",
+    "logo": "#logo21",
+    "keywords": ["customer loyalty", "cross-platform"]
+  },
+  {
+    "id": "11-4ba7-7ac",
+    "name": "Ullrich Inc",
+    "country": "Germany",
+    "rating": 6.9,
+    "color": "#f29c72",
+    "slogan": "rich e-business metrics",
+    "logo": "#logo22",
+    "keywords": [
+      "open architecture",
+      "forecast services",
+      "artificial intelligence"
+    ]
+  },
+  {
+    "id": "2f-468f-0f6",
+    "name": "Sporer-Reinger",
+    "country": "Brazil",
+    "rating": 8.6,
+    "color": "#f3c182",
+    "slogan": "24/7 methodologies",
+    "logo": "#logo47",
+    "keywords": ["business-focused"]
+  },
+  {
+    "id": "fa-44bd-ff7",
+    "name": "Mraz LLC",
+    "country": "United States",
+    "rating": 4.6,
+    "color": "#2c2e31",
+    "slogan": "clicks-and-mortar e-business",
+    "logo": "#logo24",
+    "keywords": ["content strategy", "migration services"]
+  },
+  {
+    "id": "cf-4369-3db",
+    "name": "Quitzon, Jerde and Towne",
+    "country": "United Kingdom",
+    "rating": 7.7,
+    "color": "#5899e2",
+    "slogan": "out-of-the-box applications",
+    "logo": "#logo25",
+    "keywords": ["service-desk", "forecast services", "open architecture"]
+  },
+  {
+    "id": "a6-4d26-59e",
+    "name": "Langosh, Koss and Mosciski",
+    "country": "France",
+    "rating": 4.3,
+    "color": "#f77f83",
+    "slogan": "ubiquitous synergies",
+    "logo": "#logo26",
+    "keywords": ["cross-platform"]
+  },
+  {
+    "id": "c1-4519-d35",
+    "name": "Schaefer, Koepp and Wiegand",
+    "country": "Finland",
+    "rating": 4.4,
+    "color": "#339b94",
+    "slogan": "agile initiatives",
+    "logo": "#logo27",
+    "keywords": ["migration services", "open architecture", "service-desk"]
+  },
+  {
+    "id": "57-4787-69d",
+    "name": "Vandervort and Sons",
+    "country": "Mexico",
+    "rating": 9.4,
+    "color": "#348114",
+    "slogan": "visionary e-business",
+    "logo": "#logo5",
+    "keywords": ["progressive enhancement"]
+  },
+  {
+    "id": "2a-4498-0fd",
+    "name": "Schiller, Maggio and Abbott",
+    "country": "Brazil",
+    "rating": 7.9,
+    "color": "#45c8a2",
+    "slogan": "web-enabled web-readiness",
+    "logo": "#logo28",
+    "keywords": ["knowledge base"]
+  },
+  {
+    "id": "75-417c-364",
+    "name": "Schuster-Johns",
+    "country": "Brazil",
+    "rating": 6.1,
+    "color": "#e85340",
+    "slogan": "e-commerce solutions",
+    "logo": "#logo29",
+    "keywords": ["focus groups"]
+  },
+  {
+    "id": "bf-4f15-a5d",
+    "name": "Welch, Adams and Smitham",
+    "country": "Sweden",
+    "rating": 7.8,
+    "color": "#1a6561",
+    "slogan": "customized interfaces",
+    "logo": "#logo30",
+    "keywords": ["progressive enhancement"]
+  },
+  {
+    "id": "25-40b0-4e2",
+    "name": "Tillman-Lubowitz",
+    "country": "Norway",
+    "rating": 9,
+    "color": "#5bcf65",
+    "slogan": "leading-edge e-tailers",
+    "logo": "#logo32",
+    "keywords": ["forecast services"]
+  },
+  {
+    "id": "b8-4b47-8ca",
+    "name": "Kub Inc",
+    "country": "Sweden",
+    "rating": 4.3,
+    "color": "#9a2138",
+    "slogan": "intelligent whiteboards",
+    "logo": "#logo33",
+    "keywords": ["artificial intelligence", "knowledge base"]
+  },
+  {
+    "id": "f5-4f24-a8a",
+    "name": "Fahey-Sauer",
+    "country": "Canada",
+    "rating": 8.7,
+    "color": "#2d91d4",
+    "slogan": "front-end interfaces",
+    "logo": "#logo34",
+    "keywords": ["business-focused", "user-facing"]
+  },
+  {
+    "id": "ef-4c05-f13",
+    "name": "Hackett, Grillo and Perez",
+    "country": "Mexico",
+    "rating": 9.7,
+    "color": "#2170a0",
+    "slogan": "wireless action-items",
+    "logo": "#logo35",
+    "keywords": ["business-focused", "benchmark framework"]
+  },
+  {
+    "id": "87-475d-0ad",
+    "name": "Will, West and Jacobs",
+    "country": "Sweden",
+    "rating": 8.8,
+    "color": "#f29c72",
+    "slogan": "maximize content",
+    "logo": "#logo36",
+    "keywords": [
+      "artificial intelligence",
+      "graphic interfaces",
+      "migration services"
+    ]
+  },
+  {
+    "id": "43-4ef4-47c",
+    "name": "Rempel, Hickle and Hegmann",
+    "country": "Brazil",
+    "rating": 8.1,
+    "color": "#3ab944",
+    "slogan": "integrated portals",
+    "logo": "#logo13",
+    "keywords": ["zero administration"]
+  },
+  {
+    "id": "1a-448a-28d",
+    "name": "Feil, Effertz and Conroy",
+    "country": "Canada",
+    "rating": 6.6,
+    "color": "#ad343e",
+    "slogan": "cross-platform e-markets",
+    "logo": "#logo4",
+    "keywords": ["customer loyalty", "migration services", "organic engagement"]
+  },
+  {
+    "id": "52-4b59-412",
+    "name": "Feest Inc",
+    "country": "France",
+    "rating": 9.3,
+    "color": "#64c272",
+    "slogan": "scalable communities",
+    "logo": "#logo38",
+    "keywords": ["open architecture", "product optimization"]
+  },
+  {
+    "id": "be-4c4e-e50",
+    "name": "Swift Group",
+    "country": "Brazil",
+    "rating": 6.6,
+    "color": "#cc6d8e",
+    "slogan": "seamless mindsharing",
+    "logo": "#logo39",
+    "keywords": ["user-facing"]
+  },
+  {
+    "id": "f5-4193-0d0",
+    "name": "Marvin Group",
+    "country": "Brazil",
+    "rating": 8.3,
+    "color": "#2d91d4",
+    "slogan": "syndicated e-commerce",
+    "logo": "#logo40",
+    "keywords": ["knowledge base", "web-enabled"]
+  },
+  {
+    "id": "e1-402b-b06",
+    "name": "Weber-Heidenreich",
+    "country": "Germany",
+    "rating": 6.9,
+    "color": "#afdcaa",
+    "slogan": "customized solutions",
+    "logo": "#logo41",
+    "keywords": ["organic engagement", "content strategy", "emulation"]
+  },
+  {
+    "id": "91-4722-a0c",
+    "name": "Eichmann-Borer",
+    "country": "Finland",
+    "rating": 6.5,
+    "color": "#fdec33",
+    "slogan": "cross-media e-business",
+    "logo": "#logo42",
+    "keywords": ["user-facing"]
+  },
+  {
+    "id": "55-4410-eeb",
+    "name": "VonRueden Group",
+    "country": "Brazil",
+    "rating": 9.5,
+    "color": "#64c272",
+    "slogan": "user-centric initiatives",
+    "logo": "#logo43",
+    "keywords": ["zero administration", "data-warehouse", "service-desk"]
+  },
+  {
+    "id": "19-42e0-124",
+    "name": "Kuhn Inc",
+    "country": "Sweden",
+    "rating": 5.6,
+    "color": "#fc1e14",
+    "slogan": "partnership transitions",
+    "logo": "#logo44",
+    "keywords": ["emulation"]
+  },
+  {
+    "id": "51-4a4c-963",
+    "name": "Swaniawski-Roberts",
+    "country": "Sweden",
+    "rating": 5.3,
+    "color": "#62aba3",
+    "slogan": "scaling systems",
+    "logo": "#logo45",
+    "keywords": ["user-centric", "zero administration"]
+  },
+  {
+    "id": "16-4044-cd0",
+    "name": "Heidenreich-Breitenberg",
+    "country": "France",
+    "rating": 7.4,
+    "color": "#3cd9d4",
+    "slogan": "frictionless metrics",
+    "logo": "#logo46",
+    "keywords": ["user-centric"]
+  },
+  {
+    "id": "87-4e79-dcb",
+    "name": "Kovacek-Greenfelder",
+    "country": "Canada",
+    "rating": 5.7,
+    "color": "#84b188",
+    "slogan": "dot-com platforms",
+    "logo": "#logo48",
+    "keywords": ["graphic interfaces", "cross-platform"]
+  },
+  {
+    "id": "bb-4123-b70",
+    "name": "Rutherford-Buckridge",
+    "country": "United States",
+    "rating": 6,
+    "color": "#e85340",
+    "slogan": "synergistic relationships",
+    "logo": "#logo49",
+    "keywords": [
+      "organic engagement",
+      "focus groups",
+      "progressive enhancement"
+    ]
+  },
+  {
+    "id": "c4-4775-86b",
+    "name": "Tremblay Inc",
+    "country": "Canada",
+    "rating": 8.3,
+    "color": "#9be07a",
+    "slogan": "user-driven ROI",
+    "logo": "#logo50",
+    "keywords": ["business-focused", "user-facing"]
+  }
+]
